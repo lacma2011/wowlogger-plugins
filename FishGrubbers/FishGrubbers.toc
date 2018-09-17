@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: FishGrubbers
+## Notes: Count the fishies I fish up
+## SavedVariablesPerCharacter: FishLogData
+## Author: Jerome Bordallo
+## Version: 0.1
+FishGrubbers.lua
